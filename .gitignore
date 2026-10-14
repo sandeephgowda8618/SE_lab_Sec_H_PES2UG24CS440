@@ -40,3 +40,4 @@ dist/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+*.mov
